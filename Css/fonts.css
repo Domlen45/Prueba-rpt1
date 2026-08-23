@@ -9,7 +9,7 @@
 /*#==================*/
 @font-face { 
             font-family: 'Pacifico';
-            src: url('Fonts/Pacifico-Regular.woff') format('woff');
+            src: url('https://cdn.jsdelivr.net/gh/Domlen45/Prueba-rpt1/Fonts/Pacifico-Regular.woff') format('woff');
             font-weight: normal; /*Si colocas esto predetermina el grosor de la fuente y ya no se puede cambiar despues*/
             font-style: normal; /*Si colocas esto predetermina el estilo de la fuente y ya no se puede cambiar despues*/
             /*font-display: swap;*/
