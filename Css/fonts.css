@@ -1,13 +1,14 @@
 /*#=======================
-/*#=== Prueba-fonts.css ==
+  #=== Prueba-fonts.css ==
   #=======================
-/*
-# © Copyright  2026
-# ==== Autor: Domlen45 ==== #
-# ==== Nombre del archivo: fonts ==== #
-# ==== Extensión: .css ==== #
-# ==== Fecha de creación: 22-08-2026 ==== # */
-/*#==================*/
+
+  # © Copyright  2026
+  # ==== Autor: Domlen45 ==== #
+  # ==== Nombre del archivo: fonts ==== #
+  # ==== Extensión: .css ==== #
+  # ==== Fecha de creación: 22-08-2026 ==== # */
+/*#==========================================*/
+
 @font-face { 
             font-family: 'Pacifico';
             src: url('https://cdn.jsdelivr.net/gh/Domlen45/Prueba-rpt1@main/Fonts/Pacifico-Regular.woff') format('woff'),
